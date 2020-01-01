@@ -8231,11 +8231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Documents\\Programacion\\CRUD NET CORE\\CRUD NET CORE\\CRUD NET CORE.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\Programacion\\CRUD_NET_CORE\\CRUD NET CORE\\CRUD NET CORE.csproj",
       "projectName": "CRUD NET CORE",
-      "projectPath": "C:\\Users\\Alex\\Documents\\Programacion\\CRUD NET CORE\\CRUD NET CORE\\CRUD NET CORE.csproj",
+      "projectPath": "C:\\Users\\Alex\\Documents\\Programacion\\CRUD_NET_CORE\\CRUD NET CORE\\CRUD NET CORE.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Documents\\Programacion\\CRUD NET CORE\\CRUD NET CORE\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\Programacion\\CRUD_NET_CORE\\CRUD NET CORE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
